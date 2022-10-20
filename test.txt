@@ -1,4 +1,0 @@
-This is new file test content
-this content is from feature brach
-
-:wq
