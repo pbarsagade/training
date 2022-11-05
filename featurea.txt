@@ -1,1 +1,2 @@
 feature branch content
+new hotfix added
